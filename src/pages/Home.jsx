@@ -16,7 +16,7 @@ const Home = () => {
         >
           <div className='container mx-auto p-4'>
             <h2 className='text-5xl font-bold mb-4 text-blue-950'>
-              Welcome to the Card Gallery
+              Welcome to the Card Gallery Na Ja
             </h2>
             <p className='text-black mb-6 text-lg font-semibold'>
               Browse through our collection of cards and discover amazing designs.
