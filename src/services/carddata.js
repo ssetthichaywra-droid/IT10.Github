@@ -46,6 +46,12 @@ const cardData = [
     title: "Card Eighth",
     description: "This is the egith card.",
     imageUrl: "https://images.pexels.com/photos/2093323/pexels-photo-2093323.jpeg"
+  },
+  {
+    id: 9,
+    title: "Card Nine",
+    description: "This is the egith card.",
+    imageUrl: "https://images.pexels.com/photos/2093323/pexels-photo-2093323.jpeg"
   }
 ];
 
